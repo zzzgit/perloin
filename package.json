@@ -1,0 +1,16 @@
+{
+  "name": "perloin",
+  "version": "1.0.4",
+  "description": "grab data from the internet",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "zzzgit",
+  "license": "ISC",
+  "dependencies": {
+    "listr": "^0.14.2",
+    "url-generate": "^1.0.4"
+  },
+  "devDependencies": {}
+}
