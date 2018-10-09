@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "listr": "^0.14.2",
-    "url-generate": "^1.0.4"
+    "url-generate": "^1.0.5"
   },
   "devDependencies": {}
 }
